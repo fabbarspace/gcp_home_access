@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flbarros",
+  "private_key_id": "c2d2e5826e7b85e40574f77b59ca22cec9240994",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCuqreaNmv0kmK\nC6gGcHk001hiv41MKrGc/rovtSRKVwrtvgTGxJbsZAX9F9IMnK/Dv3O8ZqfrBpO1\nEdxAmjE6+LBmQItoktMv2ZIap5vpNQNeQiW4GqLL8XghIjsWoqtqzp08qVOA2NuU\n02F10jfY5QlQ4E67YNlv2/98/3QzjSeTBxES6KSReNVKR2O1xNrx7DoiKbIt34yw\npj+W1MbUyFsR5mL4QwSQ6szGMLwZ5S0wT7PWViNY8U9dJ60cx7LUltmRzLhOPXkx\nQe0Tb0IzQ+ujbGRDtZy69EHy59ehDS1jr6DkujAq1WqiOur5i1wDjZeeDq6SjqIX\no7udEZYhAgMBAAECggEAA7eSeWpg9WU7OCJe07ij56k9H61uYgzSlR+bqDt59N1S\nfRVKfAzWoK6MGrewr8Lx6/ekmu0OuYLHoQY1QRpwZCLJIzqKLrXWyCwMCOw4Iqx7\nYvo6RBhmESSL2X4QyK7UPNay06ybxnLdRir+ykP4AvDkS6HsftErdWIqr1Uk/7Li\nhodhMiAJeLuajJOqbY1WhvvlDm5l4VYn9XGYgCIMFDxPAx6khKZy8emPbQo1qT0N\nUbNLbGvfQdbH8WIBDBRXxGVdixLRl09fAIepLEHzYFN3oKvsz6nSb85VLAtV2Q+z\n7w6I1YHXui5Ywl9SfFLGkSw0bH1UN2x8LXBkGFFzvQKBgQD0SXZb3QEvAF7Eikks\nFH8j6TVTZZJ37O4LU2AnLXZaLc1Qpqqq2YoLonrP0L6X/KuqqnXCAvce8gMmCepx\nZvqrRW9NpGCseiyatFhjuWKclqS9IgL8HMgxOoGtuJSJwRUhf6NVvgq9fcai2OkV\np74051KfSJYBzxjn3bZkAjbmwwKBgQDMEOaBvllRzXRAmRFzv5s8mHzGvyh0oR1x\nE0lhhbOCfZCUQY7gKzZK6qaOiXj0i/3YubQPwrwxRstq+tjfm1KwO6LABRX2hRWD\nCSg3Ty2rFJIYK/ce+fuE8+jdAE87ySQ/toXer3LT35Z3a/0klhivnP5GkUaZX6iP\nEEUFmvJpSwKBgQDRnTO1cbcxSIUI6owNCe1quBKs4+xBgYllKH7KP0Vd7g1OFiU+\nAvpkL2Bob/sLWaFICYqQFpFL+WhgPIPyGOYhDqyKF/FoLlGV0ghCUfHe4ZisPcIH\n6P6S11ws38R9S7PBEc/qo+59WK6YT735ef1JUfDggp1NIhKB6wo1WH0ZlwKBgGgj\ns87Aekqhw9L3io18Wdd5piuzAA1M7352LjujhLFyLOdL8YL66nEfALK6+0wpaPlC\nA98LLQkkrMjCjQzH8lHXjT3bGpM85XaCpNBdCtxE2i2Vuj5HqpD1/H9UGhtTkbkm\nB3lWJg50CxCUvpH+O0jboHQYzWOWCqo/zkmHAnCzAoGAUgoSTTcoaVrPJI9R4EZk\naJEC/dgIEqn211PoSZeHjGAQcibDn+7A5/ZLrAovp+LUGQmRkrFCht6yA8wQyD+8\nIq86eCb2eCUde2LC25ZQoO0BSUy6ciYR0VqM3oV8wVrutLSK2bVIU1wJnBrzBNA4\nhhuMqE+QQW6GEQo5W2KyNWM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "homeaccess-firewallrule@flbarros.iam.gserviceaccount.com",
+  "client_id": "103300123220703306353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/homeaccess-firewallrule%40flbarros.iam.gserviceaccount.com"
+}
