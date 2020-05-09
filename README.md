@@ -35,3 +35,17 @@ $ npm install --save @google-cloud/compute
 ```
 - Crie uma regra de firewall no GCP chamada `homeaccess`
 
+![Screenshot](firewall.png)
+
+- Crie uma regra role customizada no GCP chamada `HomeAccessRole` e adicione as seguintes politicas na role.
+```sh
+compute.firewalls.update
+compute.networks.updatePolicy
+compute.firewalls.get
+```
+![Screenshot](role.png)
+
+- Crie uma conta de serviço chamada `homeaccess-firewallrule`, ela será usada pelo script para acessar o GCP e fazer a atualização do firewall.
+
+![Screenshot](serviceaccount.png)
+
