@@ -50,11 +50,11 @@ compute.firewalls.get
 ![Screenshot](serviceaccount.png)
 
 ### Links de Referência
-APIs do Google para Developers - https://googleapis.dev/nodejs/compute/latest/Firewall.html#setMetadata
-Como utilizar a bilioteca do Google para Nodejs - https://cloud.google.com/compute/docs/tutorials/nodejs-guide#setup
-Como definir a autenticação da aplicação (Foi aqui que vi como usar o json local ao invés de variaveis de ambiente) - https://cloud.google.com/docs/authentication/production#auth-cloud-implicit-nodejs
-Documentação com especificação do Google sobre cada politica de segurança - https://cloud.google.com/compute/docs/access/iam?hl=pt-br
-Repositorio com exemplos de código do GitHub - https://github.com/googleapis/google-api-nodejs-client/blob/master/samples/compute/listVMs.js  |  https://cloud.google.com/compute/docs/tutorials/nodejs-guide?hl=pt-br
-Guia de como buscar a informação do IP através de uma outra requisição de API - https://medium.com/@danielpereira_81312/integra%C3%A7%C3%A3o-de-uma-api-utilizando-endere%C3%A7o-ip-node-js-58fb9086a99
-Exemplos de Markdown - https://dillinger.io/
+- APIs do Google para Developers - https://googleapis.dev/nodejs/compute/latest/Firewall.html#setMetadata
+- Como utilizar a bilioteca do Google para Nodejs - https://cloud.google.com/compute/docs/tutorials/nodejs-guide#setup
+- Como definir a autenticação da aplicação (Foi aqui que vi como usar o json local ao invés de variaveis de ambiente) - https://cloud.google.com/docs/authentication/production#auth-cloud-implicit-nodejs
+- Documentação com especificação do Google sobre cada politica de segurança - https://cloud.google.com/compute/docs/access/iam?hl=pt-br
+- Repositorio com exemplos de código do GitHub - https://github.com/googleapis/google-api-nodejs-client/blob/master/samples/compute/listVMs.js  |  https://cloud.google.com/compute/docs/tutorials/nodejs-guide?hl=pt-br
+- Guia de como buscar a informação do IP através de uma outra requisição de API - https://medium.com/@danielpereira_81312/integra%C3%A7%C3%A3o-de-uma-api-utilizando-endere%C3%A7o-ip-node-js-58fb9086a99
+- Exemplos de Markdown - https://dillinger.io/
 
