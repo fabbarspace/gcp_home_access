@@ -3,9 +3,6 @@
 ### Propósito
 Este script foi criado para agilizar a atualização do novo IP dinâmico nas regras de firewall no GCP quando estou trabalhando de casa
 
-### Roadmap
-- Nada a fazer
-
 ### Requerimentos em ambiente Ubuntu
 | Packages | Info | Referência |
 | ------ | ------ | ------ |
@@ -56,5 +53,5 @@ compute.firewalls.get
 - Documentação com especificação do Google sobre cada politica de segurança - https://cloud.google.com/compute/docs/access/iam?hl=pt-br
 - Repositorio com exemplos de código do GitHub - https://github.com/googleapis/google-api-nodejs-client/blob/master/samples/compute/listVMs.js  |  https://cloud.google.com/compute/docs/tutorials/nodejs-guide?hl=pt-br
 - Guia de como buscar a informação do IP através de uma outra requisição de API - https://medium.com/@danielpereira_81312/integra%C3%A7%C3%A3o-de-uma-api-utilizando-endere%C3%A7o-ip-node-js-58fb9086a99
-- Exemplos de Markdown - https://dillinger.io/
+
 
